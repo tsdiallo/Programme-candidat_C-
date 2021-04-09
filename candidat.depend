@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:h:\glrs2\c++\candidat\main.cpp
+	<iostream>
+
+1553508007 source:h:\glrs2\c++\candidat\candidat.cpp
+	"candidat.h"
+
+1553507405 h:\glrs2\c++\candidat\candidat.h
+	<iostream>
+
